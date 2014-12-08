@@ -5,7 +5,7 @@
   <version>1.0.3-SNAPSHOT</version>
   
   <description>Git Release test with maven</description>
-  <name>testmodule</name>
+  <name>test module</name>
   
   <scm>
 	<connection>scm:git:git@github.com:asankasira/mavengitreposample.git</connection>
