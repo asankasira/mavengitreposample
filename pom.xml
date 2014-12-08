@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.asanka</groupId>
+  <artifactId>testmodule</artifactId>
+  <version>1.0.2-SNAPSHOT</version>
+  
+  <description>Git Release test with maven</description>
+  <name>testmodule</name>
+  
+  <scm>
+	<connection>scm:git:git@github.com:asankasira/mavengitreposample.git</connection>
+	<url>scm:git:git@github.com:asankasira/mavengitreposample.git</url>
+	<developerConnection>scm:git:git@github.com:asankasira/mavengitreposample.git</developerConnection>
+	<tag>v1_0_2</tag>
+  </scm>
+  
+</project>
