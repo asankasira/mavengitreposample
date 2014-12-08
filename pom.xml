@@ -13,16 +13,6 @@
 		<developerConnection>scm:git:git@github.com:asankasira/mavengitreposample.git</developerConnection>
 	</scm>
 
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-release-plugin</artifactId>
-				<version>2.5</version>
-			</plugin>
-		</plugins>
-	</build>
-
 	<distributionManagement>
 		<repository>
 			<id>fakerepo</id>
