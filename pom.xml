@@ -11,7 +11,6 @@
 	<connection>scm:git:git@github.com:asankasira/mavengitreposample.git</connection>
 	<url>scm:git:git@github.com:asankasira/mavengitreposample.git</url>
 	<developerConnection>scm:git:git@github.com:asankasira/mavengitreposample.git</developerConnection>
-	<tag>v1_0_2</tag>
   </scm>
   
 </project>
